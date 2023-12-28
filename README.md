@@ -8,7 +8,7 @@
 <a href="https://twitter.com/Syncloop_dev"><img src="https://img.shields.io/badge/Follow-SyncloopDev-blue.svg?style=flat&logo=twitter"></a>
 <a href="https://www.youtube.com/@syncloop"><img src="https://img.shields.io/badge/YouTube-Tutorials-yellow.svg?style=flat"></a>
 
-Syncloop is an integration middleware where you can build any sync & async API without coding & consume it less than a 
+Syncloop is an integration middleware where you can build any sync or async API without coding & consume it less than a 
 minutes.
 
 Read more at [syncloop.com](https://syncloop.com) and the [docs](https://www.syncloop.com/documentation.html?utm_source=Website&utm_medium=click&utm_id=documentation&utm_content=github).
@@ -20,7 +20,7 @@ Syncloop speeds up the creation of APIs for applications
 
 * Create Integrations using available plugins
 * Reduce API development time by 65%
-* Visual Experience in API development
+* Visual Experience in API Development
 
 ![Syncloop API Service Demo](https://www.syncloop.com/assets/img/Api_img-1.gif)
 
@@ -202,11 +202,11 @@ For authorization, select the **Bearer Token** option from the **Authorization**
 
 ![Syncloop](https://www.syncloop.com/assets/img/docs/quickstart/image029.jpg)
 
-Copy the token text from API platform workspace by clicking on the API token in the Syncloop IDE Tool Box.
+Copy the token text from the API platform workspace by clicking on the API token in the Syncloop IDE Tool Box.
 
 ![Syncloop](https://www.syncloop.com/assets/img/docs/quickstart/image030.png)
 
-Copy the token text from the **API Token** window and click the **OK** button. Syncloop also allows to select the **expiration** time of the **Bearer Token**.
+Copy the token text from the **API Token** window and click the **OK** button. Syncloop also allows you to select the **expiration** time of the **Bearer Token**.
 
 ![Syncloop](https://www.syncloop.com/assets/img/docs/quickstart/image031.jpg)
 
